@@ -1,0 +1,1 @@
+// Question 1: Done Install Node.js, TypeScript and VS Code on your computer/Laptop.
